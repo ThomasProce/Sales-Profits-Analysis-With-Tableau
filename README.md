@@ -1,16 +1,16 @@
-## Analisi dei Profitti e delle Vendite di un Negozio
+## Analysis of Profits and Sales of a Store.
 
-### Descrizione del Progetto:
-Questo progetto utilizza Tableau per analizzare i profitti e le vendite di un negozio.
+### Project Description:
+This project uses Tableau to analyze a store's profits and sales.
 
-L'obiettivo principale è comprendere le tendenze delle vendite nel tempo, identificare i prodotti più redditizi e ottenere insight sulle performance complessive del negozio.
+The main objective is to understand sales trends over time, identify the most profitable products, and gain insights into the overall performance of the store.
 
-### Contenuti:
-1. **File Tableau Workbook**: Il file `Analysis for sales and profits of a Store.twbx` contiene dashboards e stories.
+### Contents:
+1. **Tableau Workbook file**: The file `Analysis for sales and profits of a Store.twbx` contains dashboards and stories.
 
-2. **Dataset**: Il dataset utilizzato per l'analisi è contenuto nel file `store_dataset.xlsx`.
+2. **Dataset**: The dataset used for the analysis is contained in the file `store_dataset.xlsx`.
 
 
-### Struttura dell'analisi:
-L'analisi è suddivisa in dashboards e singole visualizzazioni.
-Il tutto poi unito in un'unica story finale.
+### Structure of the analysis:
+The analysis is divided into dashboards and individual visualizations.
+All then combined into one final story.
